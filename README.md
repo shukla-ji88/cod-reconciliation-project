@@ -95,6 +95,20 @@ COD-Reconciliation-project/
 └── README.md
 ```
 
+## Live Demo
+
+**Live Dashboard:** https://cod-reconciliation.streamlit.app/
+
+**Source Code:** https://github.com/shukla-ji88/cod-reconciliation-project
+
+The dashboard demonstrates COD collection reconciliation,
+rider cash handover checks, merchant settlement analysis,
+and machine learning anomaly flags.
+
+**Data disclaimer:** Delivery operations records are simulated
+for educational and testing purposes. They do not represent
+actual merchant payments, rider collections, or financial losses.
+
 Some generated files may be absent until the corresponding script is run.
 
 
