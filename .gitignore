@@ -1,0 +1,23 @@
+
+# Python environment
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
+
+# Downloaded public dataset and derived large file
+data/Online Retail.xlsx
+data/cleaned_online_retail.csv
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
